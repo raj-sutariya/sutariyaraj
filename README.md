@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sutariyaraj.github.io"><img width="80%" src="./assets/readme-header.gif" /></a></p>
+<p align="center"><a href="https://sutariyaraj.github.io"><img width="80%" src="./assets/readme_header.gif" /></a></p>
 
 <br />
 
