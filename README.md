@@ -6,7 +6,7 @@
 
 - 📚 Machine Learning Postgrad Student at [TU Dresden](http://tu-dresden.de/)
 
-- 💼 Research Assistant at [Fraunhofer IAIS](https://www.iais.fraunhofer.de/)
+- 💼 Research Assistant at [HZDR](https://www.hzdr.de/)
 
 - ❤️ Love writing python and doing fun experiments with code. 
 
