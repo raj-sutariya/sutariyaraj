@@ -10,4 +10,4 @@
 
 - ❤️ Love writing python and doing fun experiments with code. 
 
-- 💬 Ask me about anything [here](https://github.com/sutariyaraj/sutariyaraj/issues)
+- 💬 Ask me about anything [here](https://github.com/sutariyaraj/sutariyaraj/issues) 
